@@ -11,4 +11,4 @@ Simple rules that will make our life easier and
 
 External effect — thing that will affect the world outside the team: blog post, feature in the product, design of a presentation and so on.
 
-Internal effect — thing that will affect the team only: funny jokes, manage repos and so on.
+Internal effect — thing that will affect the team only: funny jokes, manage repos, writing this doc and so on.
