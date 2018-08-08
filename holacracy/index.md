@@ -1,6 +1,6 @@
 # Organization structure
 
-## [General Circle](comm.md)
+## [General Circle](general-circle.md)
 
 ![General Circle](guardians-of-the-galaxy.jpg)
 
