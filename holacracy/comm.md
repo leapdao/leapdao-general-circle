@@ -8,31 +8,31 @@ Attract interest with a compelling and authentic brand narrative; connect our ta
 
 A Role that holds the Purpose of the overall Circle.
 
-Assigment: @mateleshkavo
+Assigment: [@mateleshkavo](https://github.com/mateleshkavo)
 
 ### Secretary
 
 An elected Role with the Purpose of aligning Circle Governance and operations with the Constitution through maintaining Circle records, scheduling meetings, and interpreting Governance upon request.
 
-Assigment: @johannbarbie (until 11/7/18)
+Assigment: [@t1mberwolf](https://github.com/t1mberwolf)
 
 ### Facilitator
 
 An elected Role with the purpose of facilitating the Circle’s Governance and Tactical meetings in accordance with the rules of the Constitution.
 
-Assigment: @a5kold (until 27/8/18)
+Assigment: [@a5kold](https://github.com/a5kold)
 
 ### Community Link
 
 ???
 
-Assigment: @t1mberwolf
+Assigment: [@t1mberwolf](https://github.com/t1mberwolf)
 
 ### Web Dev
 
 ???
 
-Assigment: @sunify
+Assigment: [@sunify](https://github.com/sunify)
 
 ### Event Organizer
 
