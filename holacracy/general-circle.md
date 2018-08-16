@@ -14,6 +14,13 @@ Assigment: -none-
 
 An elected Role with the Purpose of aligning Circle Governance and operations with the Constitution through maintaining Circle records, scheduling meetings, and interpreting Governance upon request.
 
+#### Accountabilities
+- maintain calendar
+- show up!
+- advertise calls before they happen
+- maintain tensions doc (https://hackmd.io/mWSf7ibrQcWArVycC3mi1Q)
+- write and publish meeting notes
+
 Assigment: [@troggy](https://github.com/troggy)
 
 ### Facilitator
