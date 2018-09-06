@@ -21,7 +21,7 @@ An elected Role with the Purpose of aligning Circle Governance and operations wi
 - maintain tensions doc (https://hackmd.io/QueRCtOPRy67G-nxe3Fdqg?view)
 - write and publish meeting notes
 
-Assigment: [@troggy](https://github.com/troggy)
+Assigment: [@oz1127](https://github.com/oz1127)
 
 ### Facilitator
 
