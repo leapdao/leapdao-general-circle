@@ -24,8 +24,11 @@
 
 #### [@troggy](https://github.com/troggy)
 - Secretary and Treasurer in [general circle](general-circle.md)
-- Secretary and Testnet Commander in [dappdev circle](dappdev.md)
+- Testnet Commander in [dappdev circle](dappdev.md)
 - Researcher 2 in [r'n'd circle](rnd.md)
+
+#### [@oz1127](https://github.com/oz1127)
+- Secretary in [dappdev circle](dappdev.md)
 
 ## Circles
 
