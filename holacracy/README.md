@@ -2,11 +2,6 @@
 
 ## Team
 
-#### [@johannbarbie](https://github.com/johannbarbie)
-- Facilitator and Contract Maestro in [dappdev circle](dappdev.md)
-- Facilitator and Public Speaker in [general circle](general-circle.md)
-- Lead Link and Researcher 1 in [r'n'd circle](rnd.md)
-
 #### [@mateleshkavo](https://github.com/mateleshkavo)
 - Roadmap Maintainer and Community Link in [general circle](general-circle.md)
 
@@ -28,6 +23,11 @@
 #### [@oz1127](https://github.com/oz1127)
 - Developer Link in [general circle](general-circle.md)
 - Secretary in [dappdev circle](dappdev.md)
+
+#### [@johannbarbie](https://github.com/johannbarbie)
+- Facilitator and Contract Maestro in [dappdev circle](dappdev.md)
+- Facilitator and Public Speaker in [general circle](general-circle.md)
+- Lead Link and Researcher 1 in [r'n'd circle](rnd.md)
 
 ## Circles
 
