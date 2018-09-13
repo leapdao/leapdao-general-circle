@@ -8,18 +8,16 @@
 - Lead Link and Researcher 1 in [r'n'd circle](rnd.md)
 
 #### [@mateleshkavo](https://github.com/mateleshkavo)
-- Roadmap Maintainer in [general circle](general-circle.md)
-- Lead Link in [communications circle](comm.md)
+- Roadmap Maintainer and Community Link in [general circle](general-circle.md)
 
 #### [@t1mberwolf](https://github.com/t1mberwolf)
-- Secretary and Community Link in [communications ](comm.md)circle
 
 #### [@a5kold](https://github.com/a5kold)
-- Facilitator in [communications circle](comm.md)
+- Designer in [general circle](general-circle.md)
 
 #### [@sunify](https://github.com/sunify)
+- Web Dev in [general circle](general-circle.md)
 - Lead Link, Chief Memes Officer and Node Craftsman in [dappdev circle](dappdev.md)
-- Web Dev in [communications circle](comm.md)
 - Secretary and Facilitator in [r'n'd circle](rnd.md)
 
 #### [@troggy](https://github.com/troggy)
@@ -28,6 +26,7 @@
 - Researcher 2 in [r'n'd circle](rnd.md)
 
 #### [@oz1127](https://github.com/oz1127)
+- Developer Link in [general circle](general-circle.md)
 - Secretary in [dappdev circle](dappdev.md)
 
 ## Circles
@@ -37,16 +36,6 @@
 ![General Circle](guardians-of-the-galaxy.jpg)
 
 Manages organization-wide questions
-
-### [Communications Circle](comm.md)
-
-![Communications Circle](mad-men.jpg)
-
-Responsible for communicatons with the world
-
-#### Vacant roles
-
-- Event Organizer
 
 ### [DappDevelopment Circle](dappdev.md)
 

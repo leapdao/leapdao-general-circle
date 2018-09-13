@@ -35,6 +35,18 @@ A non elected Role, with the purpose of accounting and regularly reporting on th
 
 Assigment: [@troggy](https://github.com/troggy)
 
+### Community Link
+
+Attract interest with a compelling and authentic brand narrative; connect our target audiences with the Parsec chain and educate on the advantages of Plasma.
+
+Assigment: [@mateleshkavo](https://github.com/mateleshkavo)
+
+### Developer Link
+
+Reach to and build developers and technical enthusiasts user base for Parsec Labs through online and social channels, retaining the audience by facilitating diverse activities with various complexity levels and context, with the goal of sustainable education, engagement and value generation in mind.
+
+Assigment: [@@oz1127](https://github.com/oz1127)
+
 ### Roadmap Maintainer
 
 A non elected Role, with the purpose of keeping the teams focus on achieving milestones which are defined in the RoadMap. Also is responsible for regular RoadMap review and updates.
